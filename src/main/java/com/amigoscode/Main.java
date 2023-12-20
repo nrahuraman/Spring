@@ -16,7 +16,7 @@ public class Main {
     public Main(CustomerRepository customerRepository) {
         this.customerRepository = customerRepository;
     }
-  //Just for commit reason
+  //Just  commit reason
     public static void main(String args[]) {
         SpringApplication.run(Main.class, args);
     }
